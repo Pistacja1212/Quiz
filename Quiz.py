@@ -13,6 +13,7 @@ if x == right_answer:
     print("To prawidłowa odpowiedź")
 else:
     print("Niestety prawidłowa odpowiedź to ", right_answer)
+    
 
    
 
