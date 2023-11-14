@@ -3,9 +3,9 @@
         "question":"Jak jest stolica Portugali?",
         "answers":
         [
-            "a)Madryt",
-            "b)Lizbona",
-            "c)Barcelona" 
+            "Madryt",
+            "Lizbona",
+            "Barcelona" 
         ],
         "right_answer":"b"
     },
@@ -13,40 +13,11 @@
         "question":"Jaka jest stolica Chin?",
         "answers":
         [
-            "a)Pekin",
-            "b)Hongkong",
-            "c)Tokio" 
+            "Pekin",
+            "Hongkong",
+            "Tokio" 
         ],
         "right_answer":"a"
-    },
-    {
-        "question":"Jaka jest stolica Anglii?",
-        "answers":
-        [
-            "a)Belfast",
-            "b)Londyn",
-            "c)Edynburg" 
-        ],
-        "right_answer":"b"
-    },
-    {
-        "question":"Jaka jest stolica Polski?",
-        "answers":
-        [
-            "a)Kraków",
-            "b)Gdańsk",
-            "c)Warszawa" 
-        ],
-        "right_answer":"c"
-    },
-    {
-        "question":"Jaka jest stolica Stanów Zjednoczonych?",
-        "answers":
-        [
-            "a)Nowy Jork",
-            "b)Los Angeles",
-            "c)Waszyngton" 
-        ],
-        "right_answer":"c"
     }
+
 ]
