@@ -21,6 +21,7 @@ with open('questions.json','r') as file:
             print('')
             print('To zla odpowiedz')
             point -= 1
+
     print('') 
     print(f'Zdobywasz {point} punkty')       
 

@@ -1,0 +1,21 @@
+[
+    {
+        "question":"Ile to 2+2?",
+        "answers":[
+            "4",
+            "5",
+            "3" 
+        ],
+        "right_answer":"a"
+    },
+    {
+        "question":"Ile to 5 do kwadratu?",
+        "answers":
+        [
+            "10",
+            "20",
+            "25" 
+        ],
+        "right_answer":"c"
+    }
+]
